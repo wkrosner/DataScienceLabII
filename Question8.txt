@@ -1,0 +1,3 @@
+A) the software shoud be revalidated.
+B) I would perform a pilot on existing data to make sure that it produced identical results when rerun.
+C)  The new destop machine would require revalidation.

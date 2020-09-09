@@ -1,0 +1,8 @@
+The Bioinformatics NGS pipeline should have several features.
+1.  Collection and processing of Raw Data.
+2.  Generation of combined NGS and PCR data.
+3.  Production of Variant Call Format data set using reference genome.
+4.  False postitive filter 
+5.  Variant interpretation
+6.  Clinical Report
+

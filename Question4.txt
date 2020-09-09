@@ -1,0 +1,6 @@
+A)  I would write a console application triggered by a cron job (linux) or scheduled task(windows) to transfer the data.  This job should run weekly, when the NGS results are produced.
+The PCR must be run prior to the NGS.
+B)  During the transfer, a validation/cleaning process should be performed.  A log should be produced by  the console app that describes any errors during
+the transfer process.  The log shoud emailed to the data analyst if errors are encountered.
+
+ 

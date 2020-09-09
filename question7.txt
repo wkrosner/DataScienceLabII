@@ -1,0 +1,9 @@
+A) reports are delivered via email in pdf format. There are a large number of libraries availabe for converting text/ graphics to pdf.
+
+B)  The pipeline should include data validation to ensure that all QC / QA checks are performed prior to storage.
+
+C)  Long term storage transfer should be done automatically.  This is usually performed by a cron job that checks to see if the data is ready for long term storage according to specific criteria:
+
+	1.  Ammount of time elapsed is sufficient.
+	2.  QC / QA checks have been performe adequately.
+	3.  No missing records are in the files

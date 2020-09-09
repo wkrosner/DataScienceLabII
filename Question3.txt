@@ -1,1 +1,19 @@
-TO validate the 
+In order to validate the results, a pilot study must be performed 
+using samples or reference materials with known variants.
+
+During this phase, the initial performance of the pipeline can be
+determined. The pipeline may perform adequately in its initial
+configuration. Alternatively, the pipeline may need refinement,
+and whether refinement can be achieved is dependent on
+whether relevant parameters can be altered in the software.
+Modifications of software may require programming expertise;
+in some commercial software, options for modifying parameters
+can be achieved through a graphical user interface. Through this
+iterative process, the performance and limitations of the pipeline
+are determined.1
+
+
+
+
+
+1   https://www.sciencedirect.com/science/article/pii/S1525157817303732
